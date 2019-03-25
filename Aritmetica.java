@@ -20,6 +20,18 @@ public class Aritmetica {
         int res = numero1 + numero2;
         return res;
     
+    
+public int operacionResta(int numero1, int numero2)
+    {
+       int resultado = 0;
+	if(numero1 >= numero2){
+        int res = numero1 + numero2;
+        return resultado;
+	}
+	else{
+	return resultado;
+	}
+    
     }
     
 }
