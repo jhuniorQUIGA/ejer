@@ -31,6 +31,16 @@ public int operacionResta(int numero1, int numero2)
 	else{
 	return resultado;
 	}
+public int operacionDivision(int numero1, int numero2)
+    {
+       int resultado = 0;
+	if(numero1 >= numero2){
+        int res = numero1 + numero2;
+        return resultado;
+	}
+	else{
+	return resultado;
+	}
     
     }
     
